@@ -1,0 +1,427 @@
+definition,order,prop,syllables,phones
+de,330.5,0.011568123,de,2
+dia,330.5,0.011568123,di a,3
+las,410.5,0.003856041,las,3
+le,383,0.006426735,le,2
+leer,330.5,0.011568123,le er,4
+les,420,0.002570694,les,3
+lo,383,0.006426735,lo,2
+los,410.5,0.003856041,los,3
+nada,317.5,0.01285347,na da,4
+persona,330.5,0.011568123,per so na,7
+poco,371,0.007712082,po co,4
+se,410.5,0.003856041,se,2
+ser,355.5,0.008997429,ser,3
+unas,396,0.005141388,u nas,4
+unos,355.5,0.008997429,u nos,4
+verde,396,0.005141388,ver de,5
+viejo,396,0.005141388,vie jo,5
+salchch,208.5,0.024421594,sal chi cha,9
+abajo,228,0.0218509,a ba jo,5
+abeja,305.5,0.014138817,a be ja,5
+abrir,131.5,0.041131105,a brir,5
+abuelo,29.5,0.138817481,a bue lo,6
+acabars,107,0.048843188,a ca bar se,8
+acerrin,216.5,0.023136247,a se rrin a se rran,14
+adentro,317.5,0.01285347,a den tro,7
+agua,4,0.449871465,a gua,4
+allaall,101.5,0.051413882,a lla,4
+almohad,228,0.0218509,al mo ha da,8
+amarill,383,0.006426735,a ma ri llo,8
+animal,173.5,0.030848329,a ni mal,6
+apagar,216.5,0.023136247,a pa gar,6
+apurar,371,0.007712082,a pu rar,6
+aquel,355.5,0.008997429,a quel,5
+aquela,410.5,0.003856041,a que lla,7
+arana,117.5,0.044987147,a ra Na,5
+arbol,194,0.026992288,ar bol,5
+ardilla,330.5,0.011568123,ar di lla,7
+aretes,249.5,0.019280206,a re te,5
+arriba,200,0.025706941,a rri ba,6
+aspirdo,424.5,0.001285347,as pi ra do ra,10
+atole,228,0.0218509,a to le,5
+atras,305.5,0.014138817,a tras,5
+aventar,188,0.028277635,a ven tar,7
+avion,69,0.071979434,a vion,5
+ayer,396,0.005141388,a yer,4
+ayudar,249.5,0.019280206,a yu dar,6
+azul,396,0.005141388,a zul,4
+babera,228,0.0218509,ba be ra,6
+bacinic,194,0.026992288,ba ci ni ca,8
+bailar,66,0.074550129,bai lar,6
+barco,261.5,0.017994859,bar co,5
+basura,200,0.025706941,ba su ra,6
+beemee,16,0.196658098,be me,4
+besitos,17,0.187660668,be si to,6
+bicicle,156,0.033419023,bi ci cle ta,9
+bolsa,228,0.0218509,bol sa,5
+borrego,156,0.033419023,bo rre go,7
+botas,305.5,0.014138817,bo ta,4
+boton,173.5,0.030848329,bo ton,5
+brincar,122.5,0.043701799,brin car,7
+buho,274.5,0.016709512,bu ho,4
+burro,89,0.057840617,bu rro,5
+caballo,50,0.09125964,ca ba llo,7
+cabeza,94.5,0.055269923,ca be za,6
+cabra,317.5,0.01285347,ca bra,5
+cachete,228,0.0218509,ca che te,7
+cafe,317.5,0.01285347,ca fe,4
+caja,305.5,0.014138817,ca ja,4
+cajon,330.5,0.011568123,ca jon,5
+calceti,99.5,0.052699229,cal ce tin,8
+calzon,180.5,0.029562982,cal zon,6
+camibom,291,0.015424165,ca mion de bom be ros,16
+caminar,117.5,0.044987147,ca mi nar,7
+campo,355.5,0.008997429,cam po,5
+cantar,72.5,0.064267352,can tar,6
+cara,216.5,0.023136247,ca ra,4
+carreol,173.5,0.030848329,ca rre o la,8
+casa,89,0.057840617,ca sa,4
+cenar,291,0.015424165,ce nar,5
+cepidnt,228,0.0218509,ce pi llo de dien tes,16
+cepillo,144.5,0.037275064,ce pi llo,7
+cereal,173.5,0.030848329,ce re al,6
+cerrar,200,0.025706941,ce rrar,6
+chichi,56.5,0.082262211,chi chi,6
+chico,355.5,0.008997429,chi co,5
+chile,67.5,0.073264781,chi le,5
+chupete,97.5,0.053984576,chu pe te,7
+cierre,420,0.002570694,cie rre,6
+cigarrs,383,0.006426735,ci garrs,7
+cobija,261.5,0.017994859,co bi ja,6
+cochera,410.5,0.003856041,co che ra,7
+columpi,249.5,0.019280206,co lum pio,8
+comida,38,0.114395887,co mi da,6
+conejo,208.5,0.024421594,co ne jo,6
+content,274.5,0.016709512,con ten to,8
+correr,165,0.032133676,co rrer,6
+cosqlit,83.5,0.059125964,cos qui lli tas,12
+cuacua,33,0.132390746,cua cua,6
+cuadro,410.5,0.003856041,cua dro,6
+cual,342,0.010282776,cual,4
+cuarto,274.5,0.016709512,cuar to,6
+cuchara,144.5,0.037275064,cu cha ra,7
+cuchill,342,0.010282776,cu chi llo,8
+cuidado,355.5,0.008997429,cui da do so,9
+cuna,147.5,0.035989717,cu na,4
+dar,104,0.050128535,dar,3
+decir,330.5,0.011568123,de cir,5
+dedos,216.5,0.023136247,de do,4
+desyuna,291,0.015424165,de sa yu nar,9
+despues,410.5,0.003856041,des pues,7
+dibujar,291,0.015424165,di bu jar,7
+dientes,180.5,0.029562982,dien tes,7
+difernt,424.5,0.001285347,di fe ren te,9
+dificil,424.5,0.001285347,di fi cil,7
+doler,126.5,0.042416452,do ler,5
+dulce,48,0.092544987,dul ce,5
+el1,131.5,0.041131105,el,2
+el2,200,0.025706941,el,2
+elefant,274.5,0.016709512,e le fan te,8
+ellos,420,0.002570694,e llos,5
+empujar,342,0.010282776,em pu jar,7
+enfermo,396,0.005141388,en fer mo,7
+enojado,317.5,0.01285347,e no ja do,7
+ensenar,317.5,0.01285347,en se nar,7
+esa,141,0.038560411,e sa,3
+esas,355.5,0.008997429,e sas,4
+escaler,383,0.006426735,es ca le ra,8
+escuela,249.5,0.019280206,es cue la,7
+ese,107,0.048843188,e se,3
+eso,228,0.0218509,e so,3
+esos,371,0.007712082,e sos,4
+espejo,371,0.007712082,es pe jo,6
+esperse,274.5,0.016709512,es per se,7
+estas,396,0.005141388,es tas,5
+esto,342,0.010282776,es to,4
+estos,410.5,0.003856041,es tos,5
+estufa,355.5,0.008997429,es tu fa,6
+feo,180.5,0.029562982,fe o,3
+fotos,317.5,0.01285347,fo tos,5
+frijole,156,0.033419023,fri jo le,7
+frio,156,0.033419023,frio,4
+fuchi,53,0.087403599,fu chi,5
+galleta,41,0.105398458,ga lle ta,7
+gallina,91.5,0.05655527,ga lli na,7
+globo,24,0.151670951,glo bo,5
+gracias,21.5,0.156812339,gra cias,7
+guajolo,371,0.007712082,gua jo lo to,9
+guapo,317.5,0.01285347,gua po,5
+hacerme,50,0.09125964,ha cer se,7
+hambre,180.5,0.029562982,ham bre,6
+hermana,42,0.102827763,her ma na,7
+hermano,54,0.086118252,her ma no,7
+hippotm,410.5,0.003856041,hip po ta mo,9
+hola,18,0.178663239,ho la,4
+hormiga,150,0.03470437,hor mi ga,7
+horno,424.5,0.001285347,hor no,5
+igual,427.5,0,i gual,5
+ir,131.5,0.041131105,ir,2
+jamon,188,0.028277635,ja mon,5
+jardin,342,0.010282776,jar din,6
+jirafa,383,0.006426735,ji ra fa,6
+jugo,75.5,0.061696658,ju go,4
+juguete,91.5,0.05655527,ju gue te,7
+lapiz,239,0.020565553,la piz,5
+lavar,239,0.020565553,la var,5
+lengua,274.5,0.016709512,len gua,6
+lentes,274.5,0.016709512,len tes,6
+leon,188,0.028277635,le on,4
+limpio,396,0.005141388,lim pio,6
+lleno,371,0.007712082,lle no,5
+llevar,305.5,0.014138817,lle var,6
+llorar,107,0.048843188,llo rar,6
+lluvia,208.5,0.024421594,llu via,6
+lobo,228,0.0218509,lo bo,4
+luna,111,0.047557841,lu na,4
+maestra,274.5,0.016709512,ma es tra,7
+manzana,111,0.047557841,man za na,7
+maripos,274.5,0.016709512,ma ri po sa,8
+martill,371,0.007712082,mar ti llo,8
+me,208.5,0.024421594,me,2
+medicin,291,0.015424165,me di ci na,8
+mesa,126.5,0.042416452,me sa,4
+meterse,261.5,0.017994859,me ter se,7
+mia,78,0.060411311,mi a,3
+mias,317.5,0.01285347,mias,4
+miedo,208.5,0.024421594,mie do,5
+mios,383,0.006426735,mios,4
+mojarse,216.5,0.023136247,mo jar se,7
+morder,137,0.039845758,mor der,6
+mosca,137,0.039845758,mos ca,5
+moto,111,0.047557841,mo to,4
+muneca,89,0.057840617,mu Ne ca,6
+nana,72.5,0.064267352,na na,4
+naranja,165,0.032133676,na ran ja,7
+nariz,137,0.039845758,na riz,5
+nieve,355.5,0.008997429,nie ve,5
+nube,249.5,0.019280206,nu be,4
+ombligo,216.5,0.023136247,om bli go,7
+orejas,173.5,0.030848329,o re jas,6
+oscuro,355.5,0.008997429,os cu ro,6
+oso,131.5,0.041131105,o so,3
+otravez,137,0.039845758,o tra vez,7
+padrino,249.5,0.019280206,pa dri no,7
+pajaro,58,0.080976864,pa ja ro,6
+paleta,50,0.09125964,pa le ta,6
+panal,60,0.07840617,pa Nal,5
+papa,2,0.523136247,pa pa,4
+papel,165,0.032133676,pa pel,5
+parar,200,0.025706941,pa rar,5
+parque,371,0.007712082,par que,6
+pastel,141,0.038560411,pas tel,6
+pegar,188,0.028277635,pe gar,5
+peinars,137,0.039845758,pei nar se,8
+peine,165,0.032133676,pei ne,5
+pelo,122.5,0.043701799,pe lo,4
+pesado,330.5,0.011568123,pe sa do,6
+pescado,208.5,0.024421594,pes ca do,7
+piedra,249.5,0.019280206,pie dra,6
+piernas,261.5,0.017994859,pier nas,7
+pies,83.5,0.059125964,pies,4
+pijama,291,0.015424165,pi ja ma,6
+pinguin,396,0.005141388,pin gYi no,8
+pintar,291,0.015424165,pin tar,6
+piopio,23,0.152956298,pio pio,6
+pipi,20,0.161953728,pi pi,4
+planta,239,0.020565553,plan ta,6
+plato,117.5,0.044987147,pla to,5
+playa,410.5,0.003856041,pla ya,5
+playera,274.5,0.016709512,pla ye ra,7
+poder,355.5,0.008997429,po der,5
+pollo,70,0.06940874,po llo,5
+porque,249.5,0.019280206,por que,6
+puerco,188,0.028277635,puer co,6
+pum,35.5,0.128534704,pum,3
+que,83.5,0.059125964,que,3
+quesdil,274.5,0.016709512,que sa di lla,10
+queso,194,0.026992288,que so,5
+radio,228,0.0218509,ra dio,5
+raton,200,0.025706941,ra ton,5
+recamar,355.5,0.008997429,re ca ma ra,8
+refrig,330.5,0.011568123,re fri ga dor,10
+regader,305.5,0.014138817,re ga de ra,8
+reloj,249.5,0.019280206,re loj,5
+resbald,342,0.010282776,res bal da,8
+rodilla,330.5,0.011568123,ro di lla,7
+rojo,355.5,0.008997429,ro jo,4
+romper,274.5,0.016709512,rom per,6
+ropero,355.5,0.008997429,ro pe ro,6
+sacar,261.5,0.017994859,sa car,5
+sala,317.5,0.01285347,sa la,4
+salud,141,0.038560411,sa lud,5
+secarse,342,0.010282776,se car se,7
+sed,144.5,0.037275064,sed,3
+senor,274.5,0.016709512,se Nor,5
+shorts,342,0.010282776,shorts,6
+silla,111,0.047557841,si lla,5
+soda,35.5,0.128534704,so da,4
+sofa,383,0.006426735,so fa,4
+sombrer,208.5,0.024421594,som bre ro,8
+sopa,21.5,0.156812339,so pa,4
+soplar,122.5,0.043701799,so plar,6
+suave,396,0.005141388,sua ve,5
+subir,165,0.032133676,su bir,5
+sueno,156,0.033419023,sue No,5
+sueter,228,0.0218509,sue ter,6
+taza,150,0.03470437,ta za,4
+te,228,0.0218509,te,2
+techo,355.5,0.008997429,te cho,5
+telefon,99.5,0.052699229,te le fo no,8
+tempran,396,0.005141388,tem pra no,8
+tenedor,330.5,0.011568123,te ne dor,7
+tienmer,261.5,0.017994859,te ner mer ca do,12
+tengman,94.5,0.055269923,teng mant,8
+tia,29.5,0.138817481,ti a,3
+tijeras,330.5,0.011568123,ti je ras,7
+tina,173.5,0.030848329,ti na,4
+tio,43.5,0.100257069,ti o,3
+tirar,200,0.025706941,ti rar,5
+toalla,261.5,0.017994859,to a lla,6
+tocar,173.5,0.030848329,to car,5
+todo,305.5,0.014138817,to do,4
+tortlit,55,0.083547558,tort li ta,8
+tortuga,305.5,0.014138817,tor tu ga,7
+trabaja,291,0.015424165,tra ba jo,7
+trapo,261.5,0.017994859,tra po,5
+triste,410.5,0.003856041,tris te,6
+tu,117.5,0.044987147,tu,2
+tuya,305.5,0.014138817,tu ya,4
+tuyas,410.5,0.003856041,tu yas,5
+tuyo,274.5,0.016709512,tu yo,4
+tuyos,420,0.002570694,tu yos,5
+una,249.5,0.019280206,u na,3
+uvas,126.5,0.042416452,u vas,4
+vacio,342,0.010282776,va cio,5
+vela,261.5,0.017994859,ve la,4
+venado,371,0.007712082,ve na do,6
+ventana,188,0.028277635,ven ta na,7
+vestido,249.5,0.019280206,ves ti do,7
+ya,43.5,0.100257069,ya,2
+yo,78,0.060411311,yo,2
+zoologi,427.5,0,zo o lo gi co,9
+abuela,15,0.201799486,a bue la,6
+adiosby,8,0.276349614,a dios,5
+afuera,228,0.0218509,a fue ra,6
+ahi,83.5,0.059125964,a hi,3
+ahorita,330.5,0.011568123,a ho ri ta,7
+am,3,0.458868895,am,2
+aqui,165,0.032133676,a qui,4
+arroz,156,0.033419023,a rroz,5
+ay,5,0.444730077,ay,2
+bano,104,0.050128535,ba No,4
+bebe,12,0.222365039,be be,4
+bigote,383,0.006426735,bi go te,6
+boca,64.5,0.075835476,bo ca,4
+bonita,216.5,0.023136247,bo ni ta,6
+botlmam,25,0.150385604,bo te lla,7
+brazos,239,0.020565553,bra zos,6
+buennoc,188,0.028277635,bue nas no ches,12
+buendia,173.5,0.030848329,bue nos di as,10
+caer,94.5,0.055269923,ca er,4
+calient,83.5,0.059125964,ca lien te,8
+calle,46.5,0.093830334,ca lle,5
+cama,83.5,0.059125964,ca ma,4
+camion,165,0.032133676,ca mion,6
+cansado,291,0.015424165,can sa do,7
+carne,126.5,0.042416452,car ne,5
+carro,34,0.131105398,ca rro,5
+cielo,208.5,0.024421594,cie lo,5
+cocina,239,0.020565553,co ci na,6
+collar,383,0.006426735,co llar,6
+comer,67.5,0.073264781,co mer,5
+como,291,0.015424165,co mo,4
+dinero,165,0.032133676,di ne ro,6
+dondest,156,0.033419023,don de es ta,9
+dormir,97.5,0.053984576,dor mir,6
+ella,249.5,0.019280206,e lla,4
+ellas,383,0.006426735,e llas,5
+en,371,0.007712082,en,2
+encima,396,0.005141388,en ci ma,6
+escoba,305.5,0.014138817,es co ba,6
+escribi,291,0.015424165,es cri bir,8
+esta,200,0.025706941,es ta,4
+estar,317.5,0.01285347,es tar,5
+este,147.5,0.035989717,es te,4
+estrell,216.5,0.023136247,es tre lla,8
+falda,410.5,0.003856041,fal da,5
+familia,355.5,0.008997429,fa mi lia,7
+fiesta,274.5,0.016709512,fies ta,6
+flor,188,0.028277635,flor,4
+gato,31.5,0.13496144,ga to,4
+grande,355.5,0.008997429,gran de,6
+guagua,6,0.399742931,gua gua,6
+helado,249.5,0.019280206,he la do,6
+hoy,330.5,0.011568123,hoy,3
+huevo,78,0.060411311,hue vo,5
+iglstmp,355.5,0.008997429,i gle sia,7
+jabon,150,0.03470437,ja bon,5
+jugar,156,0.033419023,ju gar,5
+la,291,0.015424165,la,2
+lavabo,396,0.005141388,la va bo,6
+leche,14,0.20437018,le che,5
+libro,291,0.015424165,li bro,5
+llaves,111,0.047557841,lla ves,6
+luz,75.5,0.061696658,luz,3
+madrina,200,0.025706941,ma dri na,7
+malo,291,0.015424165,ma lo,4
+mama,1,0.529562982,ma ma,4
+manana,371,0.007712082,ma Na na,6
+manos2,60,0.07840617,ma nos,5
+manos1,94.5,0.055269923,ma nos,5
+mas,28,0.142673522,mas,3
+miau,13,0.209511568,miau,4
+mio,56.5,0.082262211,mi o,3
+mirar,72.5,0.064267352,mi rar,5
+mono,188,0.028277635,mo no,4
+muu,27,0.143958869,mu,2
+mucho,291,0.015424165,mu cho,5
+nina,39,0.109254499,ni Na,4
+nino,46.5,0.093830334,ni No,4
+no,7,0.332904884,no,2
+nohay,122.5,0.043701799,no hay,5
+noche,305.5,0.014138817,no che,5
+nuevo,396,0.005141388,nue vo,5
+ojitos,37,0.124678663,o ji tos,6
+ojos,114,0.046272494,o jos,4
+osito,83.5,0.059125964,o si to,5
+pan,11,0.232647815,pan,3
+pantalo,228,0.0218509,pan ta lon,8
+panza,104,0.050128535,pan za,5
+para,371,0.007712082,pa ra,4
+pato,62.5,0.077120823,pa to,4
+pelota,26,0.149100257,pe lo ta,6
+perro,10,0.244215938,pe rro,5
+platano,72.5,0.064267352,pla ta no,7
+pollito,45,0.095115681,po lli to,7
+poner,291,0.015424165,po ner,5
+porfavo,156,0.033419023,por fa vor,8
+prender,291,0.015424165,pren der,7
+puerta,144.5,0.037275064,puer ta,6
+querer,180.5,0.029562982,que rer,6
+quien,261.5,0.017994859,quien,5
+qiqiriq,83.5,0.059125964,qui qui ri qui,11
+rana,305.5,0.014138817,ra na,4
+roto,396,0.005141388,ro to,4
+senora,249.5,0.019280206,se No ra,6
+sentars,165,0.032133676,sen tar se,8
+shhh,19,0.176092545,sh,2
+si,9,0.263496144,si,2
+sol,131.5,0.041131105,sol,3
+su,420,0.002570694,su,2
+sucio,239,0.020565553,su cio,5
+tambien,371,0.007712082,tam bien,7
+tambor,239,0.020565553,tam bor,6
+televis,131.5,0.041131105,te le vi si on,10
+tener,228,0.0218509,te ner,5
+tigre,317.5,0.01285347,ti gre,5
+tomar,180.5,0.029562982,to mar,5
+tortila,52,0.088688946,tor ti lla,8
+tren,101.5,0.051413882,tren,4
+tutu,60,0.07840617,tu tu,4
+un,274.5,0.016709512,un,2
+unodstr,64.5,0.075835476,u no,3
+vaca,62.5,0.077120823,va ca,4
+vaso,117.5,0.044987147,va so,4
+ver,117.5,0.044987147,ver,3
+zapato,31.5,0.13496144,za pa to,6
